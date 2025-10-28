@@ -20,7 +20,7 @@ print("Concatenated String:", message)  # Output: Hello World
 # ----------------------------------------
 
 phrase = "Python is FUN!"
-name="Manuel"
+name="MANUEL"
 phrase2= "supercagefragilistcious"
 
 # # Convert all characters to lowercase
@@ -32,7 +32,8 @@ print("Uppercase:", phrase.upper())  # Output: PYTHON IS FUN!
 
 
 # # Check if all characters are uppercase
-print("Is Uppercase?", phrase.isupper())  # Output: False
+print("Is Uppercase?", phrase.isupper())
+print("Is uppercase?", name.isupper())# Output: False
 
 
 # # Find the length of the string
