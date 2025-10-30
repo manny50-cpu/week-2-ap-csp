@@ -43,5 +43,6 @@ print("wallah your new animal is called", animal+animal2)
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
-
+username= input("What is your name?")
+print(f"{username}(+{num1}+{num2})")
 
