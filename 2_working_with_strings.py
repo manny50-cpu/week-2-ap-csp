@@ -58,6 +58,12 @@ print(phrase3[0:5])
 print(phrase3[-1])
 print(phrase3[5:9])
 
+
+sentence= "Python is fun to use"
+words = sentence.split()
+print("Split result", words)
+words2= sentence.join("")
+print(words2)
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
 
