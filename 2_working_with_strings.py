@@ -45,6 +45,8 @@ print(len(declaration_of_indepdence))
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
 # print("Last character:", phrase[-1])  # Output: !
+chicago_mayor= "johnson"
+print(chicago_mayor[4])
 
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
