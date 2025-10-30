@@ -52,6 +52,12 @@ print(chicago_mayor[4:])
 print(chicago_mayor[0:4])
 print(chicago_mayor[1:5])
 
+phrase3= "supercagifragilstic"
+print(phrase3.upper())
+print(phrase3[0:5])
+print(phrase3[-1])
+print(phrase3[5:9])
+
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
 
