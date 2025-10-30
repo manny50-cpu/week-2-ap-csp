@@ -35,7 +35,9 @@ num2= int(input("What is your second favorite number?"))
 print(num1+num2)
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
-
+animal= input("What is your favorite animal?")
+animal2= input("What is your second favorite animal?")
+print("wallah your new animal is called", animal+animal2)
 
 
 
